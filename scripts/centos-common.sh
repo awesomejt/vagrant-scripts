@@ -4,4 +4,4 @@
 yum update -y --exclude=kernel
 
 # Install common utils
-yum install -y nano git unzip screen
+yum install -y nano git unzip screen telnet nc
